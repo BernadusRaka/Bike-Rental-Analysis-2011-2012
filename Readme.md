@@ -98,7 +98,11 @@ The dataset is sourced from the [UCI Machine Learning Repository - Bike Sharing 
    Use Jupyter Notebook or JupyterLab to open `notebooks/bike_rental_analysis.ipynb`.  
 
 ---
+## 🌐 **Dashboard Access**  
+Access the live dashboard application here:  
+[Bike Rental Analysis Dashboard](https://bike-rental-analysis-2011-2012-mes7c2vd6lqmpuzm5p8uh5.streamlit.app/)
 
+---
 ## 🎯 **Project Goals**  
 1. Provide data-driven insights into bike rental behavior.  
 2. Assist bike-sharing operators in making data-informed decisions.  
