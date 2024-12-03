@@ -5,7 +5,7 @@
 This project has two main components:  
 
 1. **Dashboard Application**  
-   An interactive interface built with [Streamlit](https://streamlit.io/) to explore bike rental consumer behavior during 2011 and 2012.  
+   An interactive interface built with [Streamlit]([https://streamlit.io/](https://bike-rental-analysis-2011-2012-mes7c2vd6lqmpuzm5p8uh5.streamlit.app/)) to explore bike rental consumer behavior during 2011 and 2012.  
 
 2. **Data Analysis with Jupyter Notebook**  
    A detailed analysis of bike rental data using Python, uncovering patterns based on seasons, weather, and time of day.  
