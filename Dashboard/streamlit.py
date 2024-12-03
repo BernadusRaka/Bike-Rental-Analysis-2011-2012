@@ -10,7 +10,7 @@ st.write(
     """
 )
 
-data = pd.read_csv('Data/bike_rental.csv')
+data = pd.read_csv('Dashboard/Data/bike_rental.csv')
 
 year_map = {0: '2011', 1: '2012'}
 
